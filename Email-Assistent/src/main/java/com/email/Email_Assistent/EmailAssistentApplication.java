@@ -10,4 +10,5 @@ public class EmailAssistentApplication {
 		SpringApplication.run(EmailAssistentApplication.class, args);
 	}
 
+
 }
